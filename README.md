@@ -1,5 +1,3 @@
-# n we change existing readme?
-
 # Interactive Booking
 
 ## Description
